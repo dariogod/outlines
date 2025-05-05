@@ -40,7 +40,7 @@ dependencies = [
    "iso3166",
    "airportsdata",
    "torch",
-   "git+https://github.com/dariogod/outlines-core.git@0.1.26-with-max-recursion",
+   "outlines_core @ git+https://github.com/dariogod/outlines-core.git@0.1.26-with-max-recursion",
    "genson",
    "pre-commit>=4.0.1",
 ]
